@@ -48,7 +48,7 @@ h2 {
 h3 {
 	text-transform: uppercase;
 	letter-spacing: 2.2px;
-	font-size: 2rem;
+	font-size: 1rem;
 }
 
 h4 {
@@ -642,9 +642,7 @@ footer {
   justify-content: center;
   background: #eef9fcff;
 }
-.wrapper{
-  display: flex;
-}
+
 .wrapper .static-txt{
   color: rgb(61, 2, 209);
   font-size: 60px;
