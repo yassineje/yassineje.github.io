@@ -51,8 +51,8 @@
 				<div class="bio">
 					<h2>About Me</h2>
 					<p>Graduated as a senior technician in computer science applied in management in 2016 after having the baccaleaurate of computer science in 2013 .</p>
-					<p>I started to work in severel fileds like sales , management & buisness audit in diffirent companys , in 2020 i joined the company mosaiks web solution i was the marketing manager of </p>
-					<p>In 2021 , i started my own buisness a small printing & graphic design project where i devlopped my skills in graphic design & printings also sales and project management i'm know the a project manager in my own company named JYCOM print and i'm the responsible for the hole management of the project inculing sales , designing , printing  </p>
+					<p>I started to work in severel fileds like sales , management & buisness audit in diffirent companys , in 2020 i joined the company mosaiks web solution i was the marketing & Sales manager </p>
+					<p>In 2021 , i started my own buisness a small printing & graphic design project where i devlopped my skills in graphic design & Sales also sales and project management i'm the responsible for the hole management of the project inculing sales , designing , printing  </p>
 				</div>
 			
 				<div class="skills">
