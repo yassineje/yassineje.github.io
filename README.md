@@ -294,7 +294,7 @@
         <li><a href="https://www.facebook.com/yassine.jelassii/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a></li>
 
     </ul>
-    <a class="button" href="/Mon site professionel/Resources/YASSINE JELASSI EN.pdf" target="_blank" download="YassinejelassiCV"><i class="far fa-download"></i> Download Resume</a>
+    <a class="button" href="/Mon site professionel/Resources/YASSINE JELASSI FR.pdf" target="_blank" download="YassinejelassiCV"><i class="far fa-download"></i> Download Resume</a>
 </section>
 
 	</body>
