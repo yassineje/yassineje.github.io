@@ -73,6 +73,12 @@
 						</span>
 						<span data-customTooltip="Adobe Indesign">
 							<img src="./Resources/Images/9c9d9c1f13ffa0c062719383185cd590.jpg" alt="Adobe Indesign">
+                                                </span>
+                                                <span data-customTooltip="Adobe Premier Pro">
+							<img src="./Resources/Images/Adobe Premiere Pro.png" alt="Adobe Premiere Pro">
+						</span>
+						<span data-customTooltip="Adobe after effects">
+							<img src="./Resources/Images/Adobe after effects.png" alt="Adobe after effects">
 						</span>
 						<span data-customTooltip="HTML5">
 							<i class="fab fa-html5" title="HTML5"></i>
