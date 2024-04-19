@@ -32,7 +32,7 @@
 				<div class="content">
 					<h3>Portfolio</h3>
 					<h1>yassine Jelassi</h1>
-					<h4>Senior Web Designer &bull; Motion Graphics Designer &bull; Senior Web Designer&bull; SEO specialist </h4>
+					<h4>Project Manager &bull; PrestaShop & Wordpress Expert &bull; Senior Web Designer</h4>
                     <img src="./Resources/Images/Yassinejelassi.jpg" alt="mon image" width="320px" height="300px">
 				</div>
 				<div class="headshot">
