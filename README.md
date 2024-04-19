@@ -32,8 +32,8 @@
 				<div class="content">
 					<h3>Portfolio</h3>
 					<h1>yassine Jelassi</h1>
-					<h4>Project Manager &bull; Marketing Manager &bull; Senior Web Designer&bull; SEO specialist </h4>
-                    <img src="./Resources/Images/yassineimage.png" alt="mon image" width="320px" height="300px">
+					<h4>Senior Web Designer &bull; Motion Graphics Designer &bull; Senior Web Designer&bull; SEO specialist </h4>
+                    <img src="./Resources/Images/Yassinejelassi.jpg" alt="mon image" width="320px" height="300px">
 				</div>
 				<div class="headshot">
                     <div class="wrapper">
@@ -50,9 +50,9 @@
 			<section id="about">
 				<div class="bio">
 					<h2>About Me</h2>
-					<p>Graduated as a senior technician in computer science applied in management in 2016 after having the baccaleaurate of computer science in 2013 .</p>
-					<p>I started to work in severel fileds like sales , management & buisness audit in diffirent companys , in 2020 i joined the company mosaiks web solution i was the marketing & Sales manager </p>
-					<p>In 2021 , i started my own buisness a small printing & graphic design project where i devlopped my skills in graphic design & Sales also sales and project management i'm the responsible for the hole management of the project inculing sales , designing , printing  </p>
+					<p>I obtained my senior technician diploma in computer science applied in management in 2016, following my bachelor's degree in computer science in 2013 .</p>
+					<p>I have a diverse professional background, having worked in sales, management, and business audit roles across various companies. In 2020, I joined Mosaiks Web Solution as the Marketing & Sales Manager, where I contributed to the company's growth and success </p>
+					<p>In 2021, I embarked on an entrepreneurial journey by starting my own business—a small printing and graphic design project. Through this venture, I honed my skills in graphic design, sales, and project management. I oversee all aspects of the project, including sales, design, and printing, ensuring its smooth operation and success.  </p>
 				</div>
 			
 				<div class="skills">
@@ -302,7 +302,7 @@
     <!--footer content -->
     <footer>
         
-        <p><strong>&copy; 2022 my portfolio Y.J - all rights reserved </stron></p>
+        <p><strong>&copy; 2024 my portfolio Y.J - all rights reserved </stron></p>
             <p> Created by a tunisian Senior web designer Named : Yassine Jelassi </p>
             <img src="./Resources/Images/Tunisiaflag.png" alt="tunisiaflag" width="50px" height="35px" >
 			
