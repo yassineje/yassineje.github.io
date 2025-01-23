@@ -120,33 +120,38 @@ nav ul li a:hover, nav ul li a:active, nav ul li a:focus {
 }
 
 
-#banner {
-    
-	display: grid;
-	grid-template-columns: 2fr 3fr;
-	position: relative;
-	z-index: 2;
-}
-
-#banner .content {
-	padding: 80px 50px 50px 100px;
+#banner .content h1 {
+    font-size: 4rem; /* Larger font for the main heading */
+    color: #001b85; /* Matches your site's palette */
+    margin: 20px 0;
 }
 
 #banner .content h3 {
-	margin-left: 4px;
-	font-size: 25px;
+    color: #72d0ff; /* Subtle contrast for "Portfolio" */
+    font-size: 2rem; /* Adjust size */
+    margin: 10px 0;
 }
 
 #banner .content h4 {
-	margin: 15px;
-	font-weight: 10;
+    font-size: 1.2rem;
+    font-weight: 300; /* Light weight for subtitles */
+    color: #333333; /* Neutral shade */
 }
 
-#banner .headshot {
-	background-size: cover;
-	background-position: center;
-	height: 460px;
+#banner .content img {
+    border-radius: 15px; /* Rounded corners for the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin-top: 20px; /* Add space around the image */
+}
 
+.wrapper .static-txt {
+    font-size: 2.5rem; /* Size for welcome text */
+    color: #00176c; /* Stronger contrast for static text */
+}
+
+.wrapper .dynamic-txts li {
+    font-size: 2.5rem; /* Match the static text */
+    color: #007acc; /* Dynamic color */
 }
 
 #about {
