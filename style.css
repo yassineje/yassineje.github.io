@@ -392,6 +392,32 @@ footer {
 	border-radius: 4px;
 }
 
+
+/* Responsive Styles */
+@media only screen and (max-width: 1200px) {
+	#banner {
+		grid-template-columns: 1fr 1fr;
+	}
+	#banner .headshot {
+		height: 640px;
+	}
+	#about .accent {
+		width: 62%;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	#portfolio .category {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	#portfolio .gallery .gallery-item {
+		height: 250px;
+	}
+}
+
 /* Tooltip styles */
 
 [data-customTooltip]{
